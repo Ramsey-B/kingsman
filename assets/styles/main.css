@@ -1,0 +1,40 @@
+.jumbo-box {
+    background-image: url('https://i.imgur.com/jg6nYTd.png');
+}
+.jumbo {
+    padding: 10vh;
+    color: white;
+}
+.info-1 {
+    background: white;
+    border-radius: 20%;
+    margin-bottom: 4vh;
+    margin-top: 4vh;
+    padding-top: 5px;
+    height: 25vh;
+}
+
+.info-text {
+    padding-bottom: 10px;
+}
+.apply-box {
+    margin: 4vh;
+}
+.statement {
+    background: lightblue;
+}
+.social {
+    font-size: 5vh;
+    margin: 4vh;
+}
+.footer {
+    background: lightblue;
+}
+.foot-comment {
+    margin: auto;
+}
+#map {
+    height: 400px;
+    width: 100%;
+    border: 5px solid;
+   }
